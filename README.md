@@ -15,4 +15,4 @@ The following Python libraries are required to run the notebook:
 - `scikit-learn`
 
 ## Clone the repository:
-git clone https://github.com/yourusername/email-classification-nlp.git
+git clone https://github.com/umair801/email-classification-nlp.git
