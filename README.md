@@ -1,2 +1,18 @@
-# Spam_Email_Classifier
-A Jupyter Notebook for email spam classification using NLP techniques. Includes `CountVectorizer`, `Multinomial Naive Bayes`, and a `Pipeline` for streamlined workflows. Features model evaluation with precision, recall, and F1-score. Easy to use and extend for beginners.
+# Email Classification using NLP
+
+This repository demonstrates email spam classification using Natural Language Processing (NLP). It employs `CountVectorizer`, `Multinomial Naive Bayes`, and a `Pipeline` for efficient workflows.
+
+## Features
+- Preprocess email text with `CountVectorizer`.
+- Train and evaluate a `Multinomial Naive Bayes` model.
+- Use a `Pipeline` for streamlined operations.
+- Evaluate the model using precision, recall, and F1-score.
+
+## Requirements
+The following Python libraries are required to run the notebook:
+- `pandas`
+- `numpy`
+- `scikit-learn`
+
+## Clone the repository:
+git clone https://github.com/yourusername/email-classification-nlp.git
